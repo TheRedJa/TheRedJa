@@ -1,38 +1,32 @@
 <div align="center">
 
-# Hey, I'm TheRedJa 👋
+# TheRedJa
 
-**Minecraft modder · Rust & Java tinkerer · Linux enthusiast**
+**Software developer · Minecraft modding and tooling · Rust and Java**
 
 [![Website](https://img.shields.io/badge/theredja.dev-0b0b0f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://theredja.dev)
-[![Discord](https://img.shields.io/badge/Discord-theredja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#-get-in-touch)
-[![Location](https://img.shields.io/badge/Germany-DD0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-jakob%40theredja.dev-DD0000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jakob@theredja.dev)
 
 </div>
 
 ---
 
-## 🧰 About me
+## About
 
-- 🎮 I build mods and tools around **Minecraft**, from gameplay mods to converters and server tooling.
-- 🏢 Part of [@VOMLabs](https://github.com/VOMLabs), [@VOMHost](https://github.com/VOMHost) and [@VoxelVein](https://github.com/VoxelVein).
-- 🌍 Based in Germany.
-- 🌐 More about me and my projects at **[theredja.dev](https://theredja.dev)**.
+I develop mods and tooling for **Minecraft**, ranging from gameplay mods to map converters and server infrastructure. My main languages are Rust and Java, and I work primarily on Linux.
 
-## 🚀 Featured projects
+- Member of [@VOMLabs](https://github.com/VOMLabs), [@VOMHost](https://github.com/VOMHost) and [@VoxelVein](https://github.com/VoxelVein)
+- Based in Germany
+- Portfolio and project details: [theredja.dev](https://theredja.dev)
 
-| Project | What it is | Stack |
+## Featured projects
+
+| Project | Description | Stack |
 | --- | --- | --- |
-| [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Source Engine maps in Minecraft: exact geometry, real textures and prop meshes, sound, and running entity logic (doors, triggers, trains). | Rust, Java |
-| [**junk_craft**](https://github.com/TheRedJa/junk_craft) | Read the name. | Java |
+| [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Converts Source Engine maps to Minecraft with accurate geometry, original textures and prop meshes, sound, and working entity logic such as doors, triggers and trains. | Rust, Java |
+| [**junk_craft**](https://github.com/TheRedJa/junk_craft) | Experimental Minecraft project. | Java |
 
-## 📫 Get in touch
-
-- 💬 Discord: `theredja`
-- ⛏️ Minecraft: `TheRedJa`
-- ✉️ Email: [jakob@theredja.dev](mailto:jakob@theredja.dev)
-
-## What i use
+## Technologies
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,18 +37,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
-## 📊 Stats
+## Contact
+
+- Email: [jakob@theredja.dev](mailto:jakob@theredja.dev)
+- Website: [theredja.dev](https://theredja.dev)
+- Discord: `theredja`
+
+## GitHub stats
 
 <div align="center">
 
 ![TheRedJa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRedJa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRedJa&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
