@@ -5,6 +5,7 @@
 **Minecraft modder · Rust & Java tinkerer · Linux enthusiast**
 
 [![Website](https://img.shields.io/badge/theredja.dev-0b0b0f?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://theredja.dev)
+[![Discord](https://img.shields.io/badge/Discord-theredja-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#-get-in-touch)
 [![Location](https://img.shields.io/badge/Germany-DD0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -24,6 +25,12 @@
 | --- | --- | --- |
 | [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Source Engine maps in Minecraft: exact geometry, real textures and prop meshes, sound, and running entity logic (doors, triggers, trains). | Rust, NeoForge |
 | [**junk_craft**](https://github.com/TheRedJa/junk_craft) | Read the name. | Java |
+
+## 📫 Get in touch
+
+- 💬 Discord: `theredja`
+- ⛏️ Minecraft: `TheRedJa`
+- ✉️ Email: [jakob@theredja.dev](mailto:jakob@theredja.dev)
 
 ## 🛠️ Tech I use
 
