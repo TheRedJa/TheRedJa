@@ -14,7 +14,7 @@
 
 ## 🧰 About me
 
-- 🎮 I build mods and tools around **Minecraft** (NeoForge), from gameplay mods to converters and server tooling.
+- 🎮 I build mods and tools around **Minecraft**, from gameplay mods to converters and server tooling.
 - 🏢 Part of [@VOMLabs](https://github.com/VOMLabs), [@VOMHost](https://github.com/VOMHost) and [@VoxelVein](https://github.com/VoxelVein).
 - 🌍 Based in Germany.
 - 🌐 More about me and my projects at **[theredja.dev](https://theredja.dev)**.
@@ -23,7 +23,7 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Source Engine maps in Minecraft: exact geometry, real textures and prop meshes, sound, and running entity logic (doors, triggers, trains). | Rust, NeoForge |
+| [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Source Engine maps in Minecraft: exact geometry, real textures and prop meshes, sound, and running entity logic (doors, triggers, trains). | Rust, Java |
 | [**junk_craft**](https://github.com/TheRedJa/junk_craft) | Read the name. | Java |
 
 ## 📫 Get in touch
@@ -32,7 +32,7 @@
 - ⛏️ Minecraft: `TheRedJa`
 - ✉️ Email: [jakob@theredja.dev](mailto:jakob@theredja.dev)
 
-## 🛠️ Tech I use
+## What i use
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
-## 📊 GitHub stats
+## 📊 Stats
 
 <div align="center">
 
@@ -56,6 +56,5 @@
 
 <div align="center">
 
-*Always building something. Feel free to open an issue or say hi.*
 
 </div>
