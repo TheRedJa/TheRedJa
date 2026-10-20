@@ -13,20 +13,20 @@
 
 ## About
 
-I develop mods and tooling for **Minecraft**, ranging from gameplay mods to map converters and server infrastructure. My main languages are Rust and Java, and I work primarily on Linux.
+I develop mods and tooling for Minecraft, ranging from gameplay mods to map converters and server infrastructure. My main languages are Rust and Java, and I work primarily on Linux.
 
 - Member of [@VOMLabs](https://github.com/VOMLabs), [@VOMHost](https://github.com/VOMHost) and [@VoxelVein](https://github.com/VoxelVein)
 - Based in Germany
-- Portfolio and project details: [theredja.dev](https://theredja.dev)
+- Portfolio and project details: [theredja.dev](https://theredja.dev) (Currently offline)
 
 ## Featured projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**Source-to-Minecraft**](https://github.com/TheRedJa/Source-to-Minecraft) | Converts Source Engine maps to Minecraft with accurate geometry, original textures and prop meshes, sound, and working entity logic such as doors, triggers and trains. | Rust, Java |
-| [**junk_craft**](https://github.com/TheRedJa/junk_craft) | Experimental Minecraft project. | Java |
 
 ## Technologies
+most with the help of mister Claude.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
